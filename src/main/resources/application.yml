@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: FrankyService
+
+server:
+  port: 9090
+
+dollarOfficial: 6.96
+
+greeting:
+  message: "Pregúntate si lo que estás haciendo hoy te acerca al lugar en el que quieres estar mañana."
